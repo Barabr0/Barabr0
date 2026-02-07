@@ -27,7 +27,8 @@ Hello, i'm Bara, i'm a Beginner Developer Game and i'm ameteur programmer. I ham
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![GDScript](https://img.shields.io/badge/GDScript-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Pro Motion NG](https://img.shields.io/badge/Pro%20Motion%20NG-%2341AD49.svg?style=for-the-badge&logo=codemasters&logoColor=white)
 
 
 
