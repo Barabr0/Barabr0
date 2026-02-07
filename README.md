@@ -1,6 +1,6 @@
 # 👤 About Me Marsha Bara s
 
-Hello, i'm Bara, i'm a Beginner Developer Game and i'm ameteur programmer. I hame anyproject laravel
+Hello, i'm Bara, i'm a Beginner Developer Game and i'm ameteur programmer. I have anyproject laravel
 
 
 > Age: 17  
