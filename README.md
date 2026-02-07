@@ -28,6 +28,7 @@ Hello, i'm Bara, i'm a Beginner Developer Game and i'm ameteur programmer. I hav
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Pro Motion NG](https://img.shields.io/badge/Pro%20Motion%20NG-%2341AD49.svg?style=for-the-badge&logo=codemasters&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
 
