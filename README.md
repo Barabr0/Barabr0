@@ -1,4 +1,4 @@
-# 👤 Tentang Ku sang Developer IDE
+# 👤 About Me Marsha Bara s
 
 Hello, i'm Bara, i'm a Beginner Developer Game and i'm ameteur programmer. I hame anyproject laravel
 
