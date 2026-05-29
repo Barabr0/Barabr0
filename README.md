@@ -29,18 +29,15 @@ I'm a **PHP & Laravel developer** who loves building clean, well-structured web 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 MY AGENT FAVORITE
 
-![Bara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bara&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bara&layout=compact&hide_border=true&theme=default)
+<img src="img/neon.jpg" width="100" alt="Logo GitHub">
 
 ---
 
 ## 📫 Contact
 
-- Email: bara@example.com
-- Instagram: [@bara](https://instagram.com/bara)
+- Instagram: [@mr.bara023](https://www.instagram.com/mr.bara023/)
 
 ---
 
